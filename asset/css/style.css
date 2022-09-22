@@ -1,0 +1,20 @@
+body{
+    background-color: #BDC2C3;
+}
+.banner{
+    background: url("../img/bg.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+.icon{
+    color:rgb(0, 0, 0, 0.7);
+}
+.section-pad-top{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
